@@ -68,3 +68,5 @@ ___
 ## License
 
 Released under the [MIT License](https://oss.ninja/mit/raniesantos).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/41c8f330-c6de-4520-8148-6df1482960bc/deploy-status)](https://app.netlify.com/sites/jamstack-jigsaw/deploys)
